@@ -1,0 +1,42 @@
+.wrap-header{
+    padding: 10px 0px;
+    text-align: left;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.wrap-header h4{
+    color: rgb(11,45,101);
+    font-size: 30px;
+    margin: 170px 0px 15px 0px;
+    letter-spacing: 1px;
+}
+
+.wrap-header button{
+    background-color:#f1c40f9c ;
+    color: rgb(11,45,101);
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    width: 20%;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+.headerImg{
+    max-width: 100%;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    
+  }
+button a:hover {
+    color: #f1c40ffa;
+  }
+.aStyle{
+    color: rgb(11,45,101);
+}
